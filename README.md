@@ -63,6 +63,8 @@ Continuously expanding knowledge with a focus on automation, artificial intellig
 
 <br>
 
+---
+
 ### ♘ `GitHub_Stats`
 
 <div align="center">
