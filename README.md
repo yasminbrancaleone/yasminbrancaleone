@@ -24,7 +24,7 @@
 ### ✎ `cat /experience/banco_do_brasil.md`
 
 **Full-Stack Developer Intern | Automation & Analytics** (February 2026 - Present)
-- Working in the Automation & Analytics team integrating BI (MySQL, Power Query, and Power BI), Power Automate, and Full-Stack/REST API development (Node.js, Go, and Java).
+- Working in the Automation & Analytics team integrating BI (MariaDB, Power Query, and Power BI), Power Automate, and Full-Stack/REST API development (Node.js, Go, and Java).
 - Also responsible for technical system documentation and demand management for the area.
 
 <br>
