@@ -86,7 +86,7 @@ Always looking to stay updated, focusing on automation, data analysis, and AI. M
 ####################################################                                                      :*-.     =+    
 ```                                                             
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasminbrancaleone/yasminbrancaleone/main/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasminbrancaleone/yasminbrancaleone/main/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yasminbrancaleone/yasminbrancaleone/main/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasminbrancaleone/yasminbrancaleone/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasminbrancaleone/yasminbrancaleone/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yasminbrancaleone/yasminbrancaleone/output/snake.svg">
 </picture>
