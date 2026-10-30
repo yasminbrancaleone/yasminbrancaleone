@@ -50,9 +50,16 @@ Working daily with a variety of languages and tools, from structured backend to 
 <br>
 
 ### ★ `Certifications.log`
-Always looking to stay updated, focusing on automation, data analysis, and AI. My recent certifications from Alura include:
-- **Cloud & AI:** AI Pipelines in Cloud (Azure, AWS, and GCP), LangChain and Python (building tools with OpenAI), and Neural Networks (Deep Learning with PyTorch).
-- **Data & Automation:** Python for Data, Flow Automation integrating n8n and AI, SQL (queries and data manipulation), and Power BI (dashboards and analysis).
+Continuously expanding knowledge with a focus on automation, artificial intelligence, data engineering, and networking.
+
+#### **Cisco Networking Academy**
+* **Fundamentals & Networking:** JavaScript Essentials 1 | Networking Basics
+* **Emerging Technologies:** Introduction to Cybersecurity | Introduction to Data Science | Introduction to IoT and Digital Transformation
+
+#### **Alura**
+* **Cloud, Data & AI:** AWS Data Lake (Ingestion Pipeline) | Databricks (Lakehouse & Generative AI) | Cloud AI Pipelines (Azure, AWS, GCP) | LLMs & OpenAI with Python | LangChain with Python | Neural Networks (Deep Learning with PyTorch) | Python for Data Science
+* **Development & Automation:** Go (Google's Language) | JavaScript with Node.js | React Native (Native Features) | Workflow Automation with n8n & AI
+* **Data & BI:** SQL (Queries & Data Manipulation) | Power BI Desktop (Interactive Dashboards)
 
 <br>
 
