@@ -59,8 +59,8 @@ Always looking to stay updated, focusing on automation, data analysis, and AI. M
 ### ♘ `GitHub_Stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminbrancaleone&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbrancaleone&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
 <br>        
