@@ -68,7 +68,7 @@ Continuously expanding knowledge with a focus on automation, artificial intellig
 ### ♘ `GitHub_Stats`
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=yasminbrancaleone&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+ <img height="180em" src="https://github-stats-extended.vercel.app/api?username=yasminbrancaleone&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasminbrancaleone&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
